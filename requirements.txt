@@ -1,0 +1,14 @@
+ 
+ kaggle
+ pymupdf 
+ sentence-transformers
+chromadb
+streamlit
+anthropic 
+python-dotenv
+
+streamlit
+chromadb
+sentence-transformers
+pymupdf
+ollama
